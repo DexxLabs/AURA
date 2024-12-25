@@ -9,6 +9,7 @@ import {color} from './constants/data';
 import Tab from './components/Tab';
 import Home from './screens/Home';
 import ProductDetails from './screens/ProductDetails';
+import Cart from './screens/Cart';
 
 //constants
 const height = StatusBar.currentHeight;
@@ -34,6 +35,11 @@ export default function App() {
             name="ProductDetails"
             component={ProductDetails}
             options={{headerShown: false}}
+          />
+          <Stack.Screen
+          name="Cart"
+          component={Cart}
+          options={{headerShown: false}}
           />
         </Stack.Navigator>
       </NavigationContainer>

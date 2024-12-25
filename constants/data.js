@@ -4,7 +4,8 @@ export const color = {
     p : '#f4f4f4',
     s : '#fff',
     sec: "#000",
-    search : '#fff'
+    search : '#fff',
+    tert : '#888888'
 }
 
 export const fonts = {

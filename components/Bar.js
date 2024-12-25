@@ -8,7 +8,7 @@ const Bar = () => {
         <TextInput
           style={styles.searchBar}
           autoCorrect={false}
-          placeholderTextColor={'#888888'}
+          placeholderTextColor={color.tert}
           caretHidden={true}
           placeholder="Search"
           keyboardType="ascii-capable"

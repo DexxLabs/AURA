@@ -68,6 +68,7 @@ const Categories = () => {
               )}
           numColumns={2}
           style={{}}
+          contentContainerStyle={{alignItems: 'center'}}
         />
       </View>
     </View>
@@ -79,8 +80,8 @@ export default Categories;
 const styles = StyleSheet.create({
   buttons: {},
   List: {
-    marginHorizontal: padding.s,
     marginTop: padding.m,
+    marginHorizontal: padding.s,
     flexWrap: 'wrap',
     flexDirection: 'row',
   },
@@ -89,6 +90,5 @@ const styles = StyleSheet.create({
     fontSize: 25,
   },
   productWrapper: {
-    marginHorizontal: padding.s,
   },
 });
