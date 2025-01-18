@@ -1,8 +1,6 @@
 import {
   FlatList,
-  ImageBackground,
   Pressable,
-  ScrollView,
   StyleSheet,
   Text,
   View,
@@ -88,7 +86,7 @@ const Home = () => {
         </Pressable>
           )}
       numColumns={2}
-      style={{flexGrow:1}}
+      style={{}}
       contentContainerStyle={{alignItems: 'center'}}
     />
     </View>

@@ -3,8 +3,6 @@ import {
   Pressable,
   ScrollView,
   StyleSheet,
-  Text,
-  TouchableOpacity,
   View,
 } from 'react-native';
 import React, {useState} from 'react';
@@ -19,10 +17,6 @@ import * as Animatable from 'react-native-animatable';
 import {products} from '../constants/products';
 import Cards from '../components/Cards';
 
-// const checkCategory = (id) => {
-//   if (clothingCategories[id-1].name===products.filter(item => item.category ===)){}
-
-// }
 
 const Categories = () => {
   const [selectedId, setSelectedId] = useState(1);
