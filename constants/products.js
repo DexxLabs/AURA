@@ -93,7 +93,7 @@ export const products = [
       image: "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
       description: "Durable and lightweight running shoes for athletes.",
       category: "Footwear",
-      price: 80.00
+      price: 200.00
     },
     {
       id: 13,
