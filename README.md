@@ -1,6 +1,7 @@
 # AURA - E-Commerce App
 
 **AURA** is an e-commerce application with a clean, minimalist, and luxurious user interface, designed to provide a seamless and elegant shopping experience.
+![Screenshot_20250513_180901](https://github.com/user-attachments/assets/fca9e906-6d1e-4163-a346-ae7c259ab2b6)
 
 ---
 
