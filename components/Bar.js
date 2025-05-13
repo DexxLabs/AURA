@@ -22,7 +22,8 @@ export default Bar
 
 const styles = StyleSheet.create({
     searchWrapper: {
-        paddingVertical: height / 300,
+        paddingTop: 16,
+        marginBottom:4,
         marginHorizontal: padding.s,
       },
       searchBar: {

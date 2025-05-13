@@ -17,10 +17,10 @@ const Tab = () => {
         tabBarStyle: {
           position: 'absolute',
           bottom: '1%',
-          width: '50%',
-          height: '7%',
+          width: '60%',
+          height: '7.5%',
           borderRadius: border,
-          transform: [{translateX: width / 2 - (0.5 * width) / 2}],
+          transform: [{translateX: width / 2 - (0.6 * width) / 2}],
         },
         animation :'fade',
         tabBarActiveBackgroundColor: color.sec,

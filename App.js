@@ -18,7 +18,7 @@ const Stack = createNativeStackNavigator();
 export default function App() {
   return (
     <View style={{flex: 1, backgroundColor: '#f4f4f4'}}>
-      <StatusBar backgroundColor={color.p} />
+      <StatusBar backgroundColor={color.p}  />
       <NavigationContainer>
         <Stack.Navigator initialRouteName="SplashScreen">
           <Stack.Screen

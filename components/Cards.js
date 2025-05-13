@@ -33,10 +33,9 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     height: height / 3.5,
     borderRadius: border,
-    marginHorizontal: padding.s / 2,
-    width: (width/2)-(padding.s*2),
-    marginBottom: padding.s,
-    elevation: 3
+    width: (width/2)-padding.s*1,
+    elevation: 3,
+    marginTop:12,
   },
   ImageHandler: {
     flex:1,
@@ -48,10 +47,10 @@ const styles = StyleSheet.create({
     color: '#000',
     fontFamily: fonts.bk,
     fontSize: 14,
-    margin: padding.s,
+    marginLeft: padding.s,
   },
   price: {
     fontFamily :fonts.bk,
-    margin: padding.s,
+    marginRight: padding.s,
   },
 });

@@ -10,7 +10,7 @@ export const products = [
     {
       id: 2,
       name: "Denim Jeans",
-      image: "https://images.unsplash.com/photo-1514136649217-e4d6a2f6b143",
+      image: "https://i.pinimg.com/736x/45/de/39/45de3922805642d3ad701d9ab88f738d.jpg",
       description: "Comfortable blue denim jeans with a slim fit design.",
       category: "Bottoms",
       price: 40.00
@@ -18,7 +18,7 @@ export const products = [
     {
       id: 3,
       name: "Wool Coat",
-      image: "https://images.unsplash.com/photo-1540574163026-643ea20ade25",
+      image: "https://i.pinimg.com/736x/8c/90/30/8c90309bd4d8f0b1b2a6fa0a266c816e.jpg",
       description: "Warm and stylish wool coat for winter.",
       category: "Outerwear",
       price: 120.00
@@ -26,15 +26,15 @@ export const products = [
     {
       id: 4,
       name: "Floral Summer Dress",
-      image: "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+      image: "https://i.pinimg.com/736x/ad/b8/14/adb814933e59348337ecd565a03688ae.jpg",
       description: "Light and breezy floral dress perfect for summer outings.",
       category: "Tops",
       price: 35.00
     },
     {
       id: 5,
-      name: "Haikyu Jersey #10",
-      image: "https://images.unsplash.com/photo-1616401783310-0e4d6118e86e",
+      name: "Haikyu Jersey #9",
+      image: "https://i.pinimg.com/736x/1c/3c/dd/1c3cdd629c142d2b99032e5141f70ed3.jpg",
       description: "Soft and breathable cotton briefs for everyday comfort.",
       category: "Cosplay",
       price: 10.00
@@ -42,7 +42,7 @@ export const products = [
     {
       id: 6,
       name: "Yoga Pants",
-      image: "https://images.unsplash.com/photo-1599058917213-bc6b4fa4e22d",
+      image: "https://i.pinimg.com/736x/2f/63/2c/2f632cbf34a49f95b1377aafb065e1de.jpg",
       description: "Stretchable and comfortable yoga pants for active sessions.",
       category: "Activewear",
       price: 30.00

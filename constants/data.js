@@ -17,7 +17,7 @@ export const fonts = {
 }
 
 export const padding = {
-    s : 12,
+    s : 16,
     m : 16,
     l : 18,
 }
