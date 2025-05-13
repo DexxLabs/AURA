@@ -22,7 +22,7 @@ export const padding = {
     l : 18,
 }
 
-export const user = 'Veer'
+export const user = 'Nitu'
 export const border = 15
 
 export const {height,width} = Dimensions.get("screen")

@@ -51,18 +51,20 @@ const Categories = () => {
         }
           data={products.filter(data => data.category===clothingCategories[selectedId-1].name)}
           keyExtractor={item => item.id}
-          renderItem={({item}) => (
-            <Pressable onPress={() => navigation.navigate('ProductDetails', { item })}>
-            <Cards
-              name={item.name}
-              image={item.image}
-              price={item.price}
-            />
-            </Pressable>
-              )}
+          renderItem={({ item }) => (
+            <View style={{ flex: 1, alignItems: 'center', marginVertical: 10 }}>
+              <Pressable onPress={() => navigation.navigate('ProductDetails', { item })}>
+                <Cards
+                  name={item.name}
+                  image={item.image}
+                  price={item.price}
+                />
+              </Pressable>
+            </View>
+          )}
           numColumns={2}
           style={{}}
-          contentContainerStyle={{alignItems: 'center'}}
+          contentContainerStyle={{}}
         />
       </View>
     </View>

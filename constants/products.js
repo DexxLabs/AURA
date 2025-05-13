@@ -50,7 +50,7 @@ export const products = [
     {
       id: 7,
       name: "Men's Suit",
-      image: "https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa",
+      image: "https://i.pinimg.com/736x/de/4f/09/de4f090b159bd89b4656bd41023df96a.jpg",
       description: "Elegant two-piece suit for formal occasions.",
       category: "Formal Wear",
       price: 200.00
@@ -58,7 +58,7 @@ export const products = [
     {
       id: 8,
       name: "Graphic T-Shirt",
-      image: "https://images.unsplash.com/photo-1556909114-2d2c4c74b8a3",
+      image: "https://i.pinimg.com/736x/1d/f9/8c/1df98c1fe335cf201422f3c0700839b7.jpg",
       description: "Casual graphic tee with bold and trendy prints.",
       category: "Casual Wear",
       price: 20.00
@@ -66,7 +66,7 @@ export const products = [
     {
       id: 9,
       name: "Beachwear Bikini",
-      image: "https://images.unsplash.com/photo-1560807707-8cc77767d783",
+      image: "https://i.pinimg.com/736x/65/a2/65/65a2659b56459bf2dc71d50e91220521.jpg",
       description: "Stylish bikini set for a sunny day at the beach.",
       category: "Swimwear",
       price: 50.00
@@ -74,7 +74,7 @@ export const products = [
     {
       id: 10,
       name: "Silk Pajamas",
-      image: "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+      image: "https://i.pinimg.com/736x/41/25/b5/4125b5f484af3467e83e305f7b346a9b.jpg",
       description: "Luxurious silk pajamas for a comfortable night's sleep.",
       category: "Sleepwear",
       price: 60.00
